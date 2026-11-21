@@ -11,7 +11,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=code_66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-<img src="https://img.shields.io/github/followers/Iamacoder06?label=Followers&style=for-the-badge&color=8b5cf6" alt="GitHub followers" />
+
+<img src="https://komarev.com/ghpvc/?username=lamacoder06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 
 </div>
 
